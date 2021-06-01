@@ -23,5 +23,5 @@ PyWavelets==0.5.2
 requests==2.18.4
 six==1.11.0
 sortedcontainers==1.5.7
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.12.2
